@@ -9,4 +9,6 @@
 [![The Android App Market on Google Play](https://app.datacamp.com/learn/projects/android-app-market)](https://app.datacamp.com/) <br>
 [![A Visual History of Nobel Prize Winners](https://app.datacamp.com/learn/projects/nobel-winners)](https://app.datacamp.com/) <br>
 [![Exploring the Bitcoin Cryptocurrency Market](https://app.datacamp.com/learn/projects/82)](https://app.datacamp.com/) <br>
-[![What and Where are the World's Oldest Businesses](https://app.datacamp.com/learn/projects/worlds_oldest_businesses)](https://app.datacamp.com/)
+[![What and Where are the World's Oldest Businesses](https://app.datacamp.com/learn/projects/worlds_oldest_businesses)](https://app.datacamp.com/)<br>
+[![Dr. Semmelweis and the Discovery of Handwashing
+](https://app.datacamp.com/learn/projects/discovery-of-handwashing)](https://app.datacamp.com/)
