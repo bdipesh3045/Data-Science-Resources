@@ -1,2 +1,11 @@
 # Projects_dataAnanlysis
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Analyzing TV Data](https://app.datacamp.com/learn/projects/super-bowl)](https://app.datacamp.com/)
+[![Analyzing Online Sports Revenue](https://app.datacamp.com/learn/projects/analyzing_online_sports_revenue)](https://app.datacamp.com/)
+[![Analyzing River Thames Water Levels
+](https://app.datacamp.com/learn/projects/anayzing-river-thames-water-levels)](https://app.datacamp.com/)
+[![Investigating Netflix Movies and Guest Stars in The Office](https://app.datacamp.com/learn/projects/entertainment-data)](https://app.datacamp.com/)
+[![What and Where are the World's Oldest Businesses](https://app.datacamp.com/learn/projects/worlds_oldest_businesses)](https://app.datacamp.com/)
+[![The Android App Market on Google Play](https://app.datacamp.com/learn/projects/android-app-market)](https://app.datacamp.com/)
+[![A Visual History of Nobel Prize Winners](https://app.datacamp.com/learn/projects/nobel-winners)](https://app.datacamp.com/)
+[![Exploring the Bitcoin Cryptocurrency Market](https://app.datacamp.com/learn/projects/82)](https://app.datacamp.com/)
+[![What and Where are the World's Oldest Businesses](https://app.datacamp.com/learn/projects/worlds_oldest_businesses)](https://app.datacamp.com/)
