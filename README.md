@@ -12,3 +12,9 @@
 [![What and Where are the World's Oldest Businesses](https://app.datacamp.com/learn/projects/worlds_oldest_businesses)](https://app.datacamp.com/)<br>
 [![Dr. Semmelweis and the Discovery of Handwashing
 ](https://app.datacamp.com/learn/projects/discovery-of-handwashing)](https://app.datacamp.com/)
+# Courses for probability and statistics
+[![Introduction to Statistics](https://app.datacamp.com/learn/courses/introduction-to-statistics)] <br>
+[![Statistics Fundamentals with Python](https://app.datacamp.com/learn/skill-tracks/statistics-fundamentals-with-python)] <br>
+[![Hypothesis Testing in Python](https://app.datacamp.com/learn/courses/hypothesis-testing-in-python)] <br>
+[![Foundations of Probability in Python](https://app.datacamp.com/learn/courses/foundations-of-probability-in-python)] <br>
+
